@@ -1,0 +1,28 @@
+{
+  "name": "sf-exam-calc",
+  "version": "0.0.1",
+  "description": "This is a tool that helps you calculate your final score achieved in one of official Salesforce Exams. You can modify and extend Exams through exam.json file in this repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Must4che/sf-exam-calc.git"
+  },
+  "keywords": [
+    "salesforce",
+    "exam",
+    "examination",
+    "certification",
+    "calculator",
+    "final",
+    "score"
+  ],
+  "author": "Marek Tuska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Must4che/sf-exam-calc/issues"
+  },
+  "homepage": "https://github.com/Must4che/sf-exam-calc#readme"
+}
