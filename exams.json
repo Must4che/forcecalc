@@ -1,0 +1,111 @@
+{
+    "options": [
+        {
+            "name" : "Salesforce Certified Platform App Builder",
+            "topics" : [
+                {
+                    "name" : "User Interface",
+                    "weight": 14
+                },
+                {
+                    "name" : "Data Modeling and Management",
+                    "weight": 20
+                },
+                {
+                    "name" : "Reporting",
+                    "weight": 5
+                },
+                {
+                    "name" : "Security",
+                    "weight": 10
+                },
+                {
+                    "name" : "App Development",
+                    "weight": 8
+                },
+                {
+                    "name" : "Salesforce Fundamentals",
+                    "weight": 8
+                },
+                {
+                    "name" : "Social",
+                    "weight": 3
+                },
+                {
+                    "name" : "Mobile",
+                    "weight": 5
+                },
+                {
+                    "name" : "Business Logic and Process Automation",
+                    "weight": 27
+                }
+            ]
+        },
+        {
+            "name" : "Salesforce Certified Platform Developer I",
+            "topics" : [
+                {
+                    "name" : "Salesforce Fundamentals",
+                    "weight": 10
+                },
+                {
+                    "name" : "Data Modeling and Management",
+                    "weight": 12
+                },
+                {
+                    "name" : "Logic and Process Automation",
+                    "weight": 46
+                },
+                {
+                    "name" : "User Interface",
+                    "weight": 10
+                },
+                {
+                    "name" : "Testing",
+                    "weight": 12
+                },
+                {
+                    "name" : "Debug and Deployment Tools",
+                    "weight": 10
+                }
+            ]
+        },
+        {
+            "name" : "Salesforce Certified Platform Developer II",
+            "topics" : [
+                {
+                    "name" : "Salesforce Fundamentals",
+                    "weight": 5
+                },
+                {
+                    "name" : "Data Modeling and Management",
+                    "weight": 7
+                },
+                {
+                    "name" : "Logic and Process Automation",
+                    "weight": 33
+                },
+                {
+                    "name" : "User Interface",
+                    "weight": 20
+                },
+                {
+                    "name" : "Performance",
+                    "weight": 7
+                },
+                {
+                    "name" : "Integration",
+                    "weight": 11
+                },
+                {
+                    "name" : "Testing",
+                    "weight": 12
+                },
+                {
+                    "name" : "Debug and Deployment Tools",
+                    "weight": 5
+                }
+            ]
+        }
+    ]
+}

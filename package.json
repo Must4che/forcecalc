@@ -1,11 +1,12 @@
 {
-  "name": "sf-exam-calc",
-  "version": "0.0.1",
+  "name": "forcecalc",
+  "version": "1.0.0",
   "description": "This is a tool that helps you calculate your final score achieved in one of official Salesforce Exams. You can modify and extend Exams through exam.json file in this repo.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "./bin/forcecalc.js",
+  "bin": {
+    "forcecalc": "./bin/forcecalc.js"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Must4che/sf-exam-calc.git"
@@ -24,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/Must4che/sf-exam-calc/issues"
   },
-  "homepage": "https://github.com/Must4che/sf-exam-calc#readme"
+  "homepage": "https://github.com/Must4che/sf-exam-calc#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "readline-sync": "^1.4.9"
+  }
 }
