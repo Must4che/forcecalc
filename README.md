@@ -1,5 +1,9 @@
 # forcecalc
 
+## Compatibility
+
+Currently this package is only supported on Windows machines.
+
 ## Installation
 
 ```console
