@@ -2,7 +2,7 @@
 
 ## Compatibility
 
-Currently this package is only supported on Windows machines.
+Currently this package is only supported Windows, Mac and Linux.
 
 ## Installation
 
