@@ -1,5 +1,7 @@
 # forcecalc
 
+This is a simple CLI tool that I created for my colleagues from Salesforce-trainers group. It simply caclculates weighted average from partial Exam scores 3 salesforce developer exams. But feel free to use this tools --edit flag to edit exams.json (add/remove/modify exams). It is not prefect and I mostly just used this Package to try out some NodeJS features.
+
 ## Compatibility
 
 Currently this package is only supported Windows, Mac and Linux.
