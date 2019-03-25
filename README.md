@@ -28,6 +28,20 @@ forcecalc --edit
 
 This feature opens json file with all exam data. You can modify and add new Exams. All exams do have topics and there you can find a topics name and weight. NOTE: You can not mofify calculation formula only data passed there.
 
+## Other Useful commands
+
+```console
+forcecalc --help
+```
+
+Displays a list of all accesible commands.
+
+```console
+forcecalc --version
+```
+
+Displays Package version.
+
 ## GitHub
 
 https://github.com/Must4che/forcecalc
